@@ -18,7 +18,7 @@
  * @subpackage titaniaann-slideshow-widget/includes
  * @author     Cynthia Brown <cynthia@cynthiabrown.me>
  */
-class Titaniaann_Slideshow_Widget_Deactivator {
+class TTANN_SSW_Deactivator {
 	/**
 	 * Short Description. (use period)
 	 *
